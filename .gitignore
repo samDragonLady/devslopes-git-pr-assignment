@@ -1,6 +1,9 @@
 #api info and keys
 .env.local
 
+#sentry-dsn
+.env.production.local
+
 # Windows thumbnail cache files
 Thumbs.db
 Thumbs.db:encryptable
